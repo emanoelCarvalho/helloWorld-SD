@@ -1,6 +1,3 @@
-Claro! Aqui está o seu README alterado para incluir a configuração do arquivo `.env`:
-
----
 
 # Hello World - SD
 
@@ -62,7 +59,3 @@ docker-compose down
 
 - **Emanoel**
 - **Cleiton**
-
----
-
-Agora, o README explica como configurar o arquivo `.env` antes de rodar a aplicação. Se precisar de mais alguma coisa, é só avisar!
